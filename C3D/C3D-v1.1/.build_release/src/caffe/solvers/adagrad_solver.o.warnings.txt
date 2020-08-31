@@ -1,0 +1,9 @@
+In file included from /data1/zhiyuyin/local/gcc-trunk/include/c++/9.0.0/x86_64-pc-linux-gnu/bits/os_defines.h:39,
+                 from /data1/zhiyuyin/local/gcc-trunk/include/c++/9.0.0/x86_64-pc-linux-gnu/bits/c++config.h:516,
+                 from /data1/zhiyuyin/local/gcc-trunk/include/c++/9.0.0/bits/stl_algobase.h:59,
+                 from /data1/zhiyuyin/local/gcc-trunk/include/c++/9.0.0/vector:60,
+                 from src/caffe/solvers/adagrad_solver.cpp:1:
+/usr/include/features.h:367:12: fatal error: sys/cdefs.h: No such file or directory
+  367 | #  include <sys/cdefs.h>
+      |            ^~~~~~~~~~~~~
+compilation terminated.

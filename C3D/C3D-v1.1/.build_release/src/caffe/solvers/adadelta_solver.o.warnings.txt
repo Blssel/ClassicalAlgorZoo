@@ -1,0 +1,7 @@
+In file included from ./include/caffe/blob.hpp:8:0,
+                 from ./include/caffe/net.hpp:10,
+                 from ./include/caffe/solver.hpp:7,
+                 from ./include/caffe/sgd_solvers.hpp:7,
+                 from src/caffe/solvers/adadelta_solver.cpp:3:
+./include/caffe/common.hpp:5:27: fatal error: gflags/gflags.h: No such file or directory
+compilation terminated.
